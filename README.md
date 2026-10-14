@@ -1,5 +1,7 @@
 # Spotify Songs — Data Analyst Project
 
+https://project-songanalyst-dhaval.streamlit.app/
+
 Analisis **2.000 lagu terpopuler (1998–2020)** beserta fitur audio Spotify
 (danceability, energy, valence, tempo, dll.): dari pemahaman data, pembersihan,
 feature engineering, EDA + heatmap korelasi, storytelling, sampai dashboard
